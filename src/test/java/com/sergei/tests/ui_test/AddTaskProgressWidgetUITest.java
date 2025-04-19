@@ -14,6 +14,7 @@ import java.time.Duration;
 import static com.sergei.pages.DashboardPage.*;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
+
 @Epic("Dashboard")
 @Feature("Widget Management")
 @Story("Add Task Progress Widget")

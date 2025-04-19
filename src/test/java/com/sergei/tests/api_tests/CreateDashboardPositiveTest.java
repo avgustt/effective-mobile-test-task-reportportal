@@ -6,11 +6,10 @@ import io.restassured.http.ContentType;
 import io.restassured.response.Response;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-
 import java.util.List;
-
 import static io.qameta.allure.Allure.step;
 import static org.junit.jupiter.api.Assertions.*;
+
 
 @Epic("Dashboard")
 @Feature("API")
